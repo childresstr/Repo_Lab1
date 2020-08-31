@@ -29,6 +29,7 @@ morale.
     *  Conducted interpretive programs for groups of 50+ people including large school groups
 and other civic organizations on topics ranging from animal behavior to biodiversity.
 
+
 ### Skills
   * Public Speaking
   * Attention to detail
