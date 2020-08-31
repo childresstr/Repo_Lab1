@@ -4,14 +4,14 @@
   I am an experienced and dedicated professional who balances a passion of the outdoors with a strong work ethic rooted in integrity. I am currently a senior undergraduate student within the [Department of Geography and Planning at Appalachian State University](https://geo.appstate.edu/).
 
 
-  ### Education
+### Education
   Bachelor of Science in Geography with a certificate in GIS Systems, December 2020
 
   Appalachian State University
   Boone, NC, USA
 
 
-  ### Work Experience
+### Work Experience
   * **2014-2019**
   **Airborne Infantryman**, 82nd Airborne Division, U.S. Army
     *  Acted as a team leader of a 4-5-person element while part of the 82nd Airborne Division both in garrison and during hazardous conditions in Iraq and Syria.
