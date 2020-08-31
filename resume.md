@@ -28,11 +28,12 @@ morale.
     *  Oversaw and directed one full-time as well as 5-6 seasonal employees in the daily management of the department.
     *  Conducted interpretive programs for groups of 50+ people including large school groups
 and other civic organizations on topics ranging from animal behavior to biodiversity.
+
 ### Skills
-* Public Speaking
-* Attention to detail
-* Adaptable
-* Knowledge of local flora and fauna
+  * Public Speaking
+  * Attention to detail
+  * Adaptable
+  * Knowledge of local flora and fauna
 
 [black bear]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 [cougar]: https://flic.kr/p/UVPcaU
